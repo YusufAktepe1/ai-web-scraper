@@ -5,3 +5,8 @@ output.json
 .venv/
 venv/
 .vscode/
+# Çıktı dosyaları ve geçici Excel kilit dosyaları
+output.json
+output.xlsx
+~$*
+*.xlsx
